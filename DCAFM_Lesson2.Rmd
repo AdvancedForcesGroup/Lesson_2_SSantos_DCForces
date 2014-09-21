@@ -1,0 +1,168 @@
+---
+title: "Quasi-Static Atomic Force Microscopy (AFM)"
+author: "S Santos"
+date: "Monday, September 15, 2014, Masdar"
+output: ioslides_presentation
+---
+
+<!-- regular html comment --> 
+
+# Lesson 2: DC forces - September 2014
+
+## Contents
+
+<font size="14">
+
+### **How to access all distances?**
+
+</font>
+
+- Force Feedback Microscopy!
+
+<font size="14">
+
+### **Effects of thermal drift on position**
+
+</font>
+
+- Where is the absolute distance?
+
+<font size="14">
+
+### **Imaging surfaces in the DC mode** 
+
+</font>
+
+- Topography
+
+- Friction through lateral forces
+
+
+
+## Accessing tip-sample distances d
+
+- The tip-distances
+
+ <img src="L2_1.jpg" alt="Image 1" height="400" width="600"> 
+ 
+
+## Accessing tip-sample distances d
+
+- The tip-trapping issue, i.e. z for deflection!
+
+<img src="L2_2.jpg" alt="Image 1" height="400" width="600"> 
+
+## Force Feedback Microscopy to remove tip trapping
+
+- Force Feedback (AFM)
+
+<img src="L2_3.jpg" alt="Image 1" height="400" width="600"> 
+
+----
+
+- Read articles:
+
+Rodrigues, M. S., Costa, L., Chevrier, J. & Comin, F. System analysis of Force Feedback Microscopy. Journal of Applied Physics 115, 054309 (2014).
+
+[download here](http://scitation.aip.org/content/aip/journal/jap/115/5/10.1063/1.4864127)
+
+Rodrigues, M. S., Costa, L., Chevrier, J. & Comin, F. Why do atomic force microscopy force curves still exhibit jump to contact? Applied Physics Letters 101, 203105-203107 (2012).
+
+[download here](http://scitation.aip.org/content/aip/journal/apl/101/20/10.1063/1.4766172)
+
+
+<font size="11">
+
+**IMPORTANT NOTE** 
+You need to choose one of these two articles and summarize.
+Check [Projects1](https://github.com/AdvancedForcesGroup/Projects1) for details  
+
+
+</font>
+
+
+
+# Effects of thermal drift on position
+
+
+## The quasi-static ideal equation
+
+
+- The fundamental equation for tip-distance d 
+
+
+zc: cantilever separation
+
+
+z: Tip deflection
+
+
+d: tip sample distance
+
+
+
+<font size="12">
+
+<center>d=z_c + z</center>
+
+</font>
+
+
+## Effects of drift velocity | No z_c drift: the ideal case
+
+<img src="L2_4.jpg" alt="Image 1" height="400" width="600"> 
+
+
+## Effects of drift velocity | the z_c drift!
+
+
+- There is an effective value of z_c
+
+This is because of drift in z_c
+
+
+<img src="L2_5.jpg" alt="Image 1" height="400" width="600"> 
+
+
+## Imaging surfaces in the DC mode
+
+
+- The AFM was introduced in 1986 in the DC (Quasi-Static mode)
+
+
+Please read the first article [here](http://www.qudev.ethz.ch/phys4/studentspresentations/afm/Atomic%20force%20microscope.pdf)
+
+Binnig, G., Quate, C. F. & Gerber, C. Atomic Force Microscope. Physical Review Letters 56, 930-933 (1986).
+
+
+## Imaging surfaces in the DC mode
+
+
+
+- The AFM was also shown to detect friction 
+
+
+OBLIGATORY READ [here](http://www.nanowerk.com/nanobusiness/showroom/Park_Systems/downloads/Lateral_Force_Microscopy.pdf)
+
+
+Read also [this](http://www.bruker.com/products/surface-analysis/atomic-force-microscopy/modes/modes/specialized-modes/lfm.html)
+
+
+Friction quantification [here](http://iopscience.iop.org/1742-6596/61/1/011/pdf/jpconf7_61_011.pdf)
+
+Attard, P., Stiernstedt, J. & Rutland, M. W. Measurement of friction coefficients with the atomic force microscope. Journal of Physics: Conference Series (2007).
+
+
+
+
+## Chemical microscopy and other
+
+- Please read this entry [here](http://en.wikipedia.org/wiki/Chemical_force_microscopy)
+
+
+
+
+
+
+
+
